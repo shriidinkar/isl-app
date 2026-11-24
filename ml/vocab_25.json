@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "HELLO", "THANK-YOU", "SORRY", "YES", "NO",
+    "I", "YOU", "WE", "WHAT", "WHERE",
+    "MOTHER", "FATHER", "FRIEND", "SCHOOL", "BOOK",
+    "DOCTOR", "HELP", "WATER", "EAT", "GO",
+    "COME", "SLEEP", "WORK", "TODAY", "GOOD"
+  ]
+}

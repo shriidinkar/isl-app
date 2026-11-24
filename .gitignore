@@ -5,3 +5,7 @@ __pycache__/
 .env
 backend/clips/*.mp4
 dist/
+ml/data/*
+!ml/data/.gitkeep
+ml/models/*.pth
+ml/models/*.pt
